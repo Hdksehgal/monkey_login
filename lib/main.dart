@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               const Text(
-                'All my friends are welcomed here \n please enter your email and password below \n others fuckoff',
+                ' Please enter your email and password below ',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontFamily: 'paci',
